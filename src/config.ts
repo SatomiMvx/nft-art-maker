@@ -18,7 +18,7 @@ const format = customConfig?.config?.format || {
 };
 
 const defaultMetadataSchemaMapper = {
-  name: 'name',
+  name: 'class',
   description: 'description',
   edition: 'edition',
   attributes: 'attributes',
