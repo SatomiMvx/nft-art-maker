@@ -19,21 +19,7 @@
         }
       ]
     },
-    {
-      "growEditionSizeTo": 110,
-      "layersOrder": [
-        {
-          "name": "pinkyFace"
-        },
-        {
-          "name": "head"
-        },
-        {
-          "name": "eyes"
-        }
-      ]
-    }
-  ],
+   
   "shuffleLayerConfigurations": false,
   "format": {
     "width": 20,
