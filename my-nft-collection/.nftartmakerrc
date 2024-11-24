@@ -1,306 +1,74 @@
 {
-  "description": "SatomiLegends",
-  "tags": "Fantasy Adventure, Role-Playing Game, Anime-Style, Action Strategy, Cyber Magic, Collectible Heroes, Tactical Battles, Mystical Realms, Flame Enchantress, Tidal Oracle, Storm Weaver, Earth Guardian, Data Phantom, Blade Runner, Neon Sniper, Mechanic Trickster, Elixir Maven, Poison Veil, Bloom Weaver, Root Shaman, Nightblade, Spectral Wraith, Phantom Fist, Umbra Scout, Celestial Healer, Light Avenger, Sacred Protector, Seraphim Sage, Wolf Summoner, Falconer, Tiger Spirit, Serpent Caller, Hex Caster, Astral Binder, Rune Weaver, Spectral Mage, Bomb Tinker, Drone Commander, Trap Master, Hack Saboteur, Fist of Valor, Faith Bringer, Celestial Striker, Holy Crusader, Star Gazer, Lunar Priestess, Solar Warrior, Eclipse Guardian"
-,
-  "format": {
-    "width": 300,
-    "height": 300
-  },
+  "description": "Satomi legends",
+  "svgBase64DataOnly": true,
   "layerConfigurations": [
     {
       "growEditionSizeTo": 400,
       "layersOrder": [
         {
-          "Class": "Astral Binder",
-          "Arcane Enchantress": "A celestial sorceress, she channels the energy of the cosmos. Her starry spells illuminate the night, granting her allies cosmic power and unleashing stellar destruction upon her foes.",
-          "Starlight Grove": "An open field under a cosmic sky, with stars and galaxies casting their glow.",
-          "Starfall": "Calls down a star from the sky, dealing massive area damage to enemies in a designated zone.",
-          "Starry Influence": "Gains increased mana regeneration when standing still, promoting strategic positioning during combat."
+          "name": "face"
         },
         {
-          "Class": "Blade Runner",
-          "Cyber Ninja": "Swift and agile, she excels in close-quarters combat, wielding dual plasma blades. Her speed and ferocity allow her to outmaneuver enemies and deliver devastating blows.",
-          "Neon Edge": " A neon-lit alley with slick, rainy streets and towering skyscrapers, ideal for swift battles.",
-          "Frenzied Assault": "Temporarily increases attack speed and damage, allowing for rapid strikes that deal bonus damage to the target hit.",
-          "Fleeting Speed": "Increases movement speed for a short duration after scoring a critical hit, allowing for rapid repositioning."
+          "name": "grade"
         },
         {
-          "Class": "Bloom Weaver",
-          "Mystic Herbalist": "Vibrant and lively, she channels the life force of plants, summoning blossoms to heal and protect her allies. Her connection to nature empowers her abilities to flourish in combat.",
-          "Petal Meadows": "A vast field of vibrant flowers under cherry blossoms, alive with mystical beauty.",
-          "Natural Rebirth": "Summons a burst of flora that heals allies and increases their speed for a short duration.",
-          "Natural Blessing": "Allies gain a small heal-over-time effect when near the herbalist, promoting group survivability."
+          "name": "team"
         },
         {
-          "Class": "Bomb Tinker",
-          "Rogue Mechanic": "An explosive expert, she crafts powerful bombs and traps. Her chaotic creations wreak havoc on the battlefield, delivering devastating damage to unsuspecting foes.",
-          "Pulse Quarter": "A quiet, cyber-city sector where neon lights cast a soft glow over empty streets and silent, towering skyscrapers.",
-          "Explosive Surprise": "Places a series of traps that detonate when enemies come near, dealing area damage and stunning them.",
-          "Explosive Expert": "Increases damage dealt by traps and explosives, enhancing area control abilities."
-        },
-        {
-          "Class": "Celestial Healer",
-          "Holy Priestess": "A beacon of hope, she wields divine magic to heal and protect her allies. Her serene presence uplifts her companions, restoring their strength in the heat of battle.",
-          "Sanctuary of Light": "A tranquil temple with cascading sunlight and gentle, golden blooms.",
-          "Divine Light": "Channels healing energy in an area, restoring health to all allies while damaging undead enemies.",
-          "Faithful Presence": "Allies near the holy priestess gain increased healing from all sources, enhancing their sustainability."
-        },
-        {
-          "Class": "Celestial Striker",
-          "Battle Priestess": "An agile combatant, she wields divine energy in her strikes. Her quick reflexes and holy power allow her to deal significant damage while supporting her allies.",
-          "Starbound Plateau": " A cliffside under a clear, starry sky where divine energy resonates.",
-          "Heavenly Judgment": "Calls down a beam of divine light on a target, dealing heavy damage and stunning them.",
-          "Heavenly Affinity": "Gains increased critical hit chance against enemies affected by her holy abilities."
-        },
-        {
-          "Class": "Data Phantom",
-          "Cyber Ninja": "A master of stealth, she blends into the shadows while wielding high-tech weaponry. Her agility and hacking skills make her a formidable opponent who strikes from the darkness.",
-          "Digital Void": "A shadowy, high-tech district filled with flickering holograms and digital distortions.",
-          "Shadow Step": "Teleports a short distance, leaving behind a holographic decoy that distracts enemies for a few seconds.",
-          "Camouflage": "Gains increased stealth when standing still, making it harder for enemies to detect her."
-        },
-        {
-          "Class": "Drone Commander",
-          "Rogue Mechanic": "A tech-savvy rogue, she commands an army of drones. Her tactical expertise allows her to utilize these machines for surveillance, support, and offense in combat.",
-          "Tech Spire": "A towering lab filled with high-tech drones scanning the area.",
-          "Overclock": "Temporarily boosts the damage output and speed of her drones, allowing them to deal more damage and act more efficiently.",
-          "Tech Resilience": "Gains a small damage reduction while drones are deployed, improving survivability during combat."
-        },
-        {
-          "Class": "Earth Guardian",
-          "Elemental Sorceress": "Grounded and wise, she draws strength from nature, using her powers to protect and heal. Her connection to the earth allows her to summon barriers and manipulate the terrain.",
-          "Stoneheart Plateau": "A barren, rugged plateau with grounded stone formations and sacred carvings.",
-          "Nature Embrace": "Calls upon the earth to create a shield that absorbs damage and lock enemies in place for a brief period.",
-          "Natural Fortitude": "Gains increased defense when standing on natural terrain, boosting her resistance to damage."
-        },     
-           {
-          "Class": "Eclipse Guardian",
-          "Celestial Maiden": "A balanced protector, she stands between light and dark. Her dual abilities allow her to harness both celestial energies, creating harmony on the battlefield.",
-          "Twilight Border": "A mystical edge between light and dark, where shadows and sunlight intertwine.",
-          "Shadowed Light": "Balances light and dark energies, creating a field that increases allies attack power while weakening enemies.",
-          "Celestial Balance": " Gains temporary buffs when alternating light and dark abilities."
-        },
-        {
-          "Class": "Elixir Maven",
-          "Mystic Herbalist:": "A gentle healer, she brews potent potions to aid her allies in battle. Her knowledge of herbs and healing arts allows her to restore health and provide crucial support.",
-          "Potion Glade": " A tranquil forest clearing filled with magical herbs and bubbling potions.",
-          "Potion Burst": "Throws a vial that explodes into healing mist, healing allies within range while damaging enemies.",
-          "Alchemical Resilience": "Increases the effectiveness of all healing items used by the herbalist and nearby allies."
-        },
-        {
-          "Class": "Faith BringerBattle Priestess",
-          "Battle Priestess": "A steadfast protector, she blends combat prowess with healing abilities. Her determination inspires allies, bolstering their resolve in the face of adversity.",
-          "Sunlit Citadel": "A grand structure bathed in sunlight, perfect for defending the righteous.",
-          "Shield of Faith": "Raises a holy shield that absorbs incoming damage for herself and nearby allies, providing temporary invulnerability.",
-          "Righteous Fury": "Gains increased attack power after using healing abilities, rewarding support playstyles."
-        },
-        {
-          "Class": "Falconer",
-          "Beast Whisperer": "A skilled tracker, she commands a loyal falcon. With sharp eyes and quick reflexes, she scouts the battlefield, providing valuable information and delivering swift strikes.",
-          "Windswept Cliffs": "Jagged, high cliffs where falcons soar, and the wind carries whispers.",
-          "Eagle Eye": "Gains enhanced vision, allowing the character to mark targets for increased damage from all allies.",
-          "Eagle Vigil": "Gains increased vision range and detection of hidden enemies, improving battlefield awareness."
-        },
-        {
-          "Class": "Fist of ValorBattle Priestess",
-          "Battle Priestess": "A courageous warrior, she charges into battle with unyielding strength. Her combat skills and holy magic empower her fists, delivering righteous fury against her foes.",
-          "Temple Grounds:": "A fortified, holy space with stone courtyards and protective symbols.",
-          "Empowered Strike": "Charges up a powerful fist attack that knocks back enemies and grants allies temporary damage boosts.",
-          "Warlord Might": "Increases melee damage and attack speed while near allies, promoting aggressive team play."
-        },
-        {
-          "Class": "Flame Enchantress",
-          "Elemental Sorceress": "Harnessing the raw power of fire, she unleashes devastating fire spells, scorching her foes and enveloping them in flames. Her presence ignites the battlefield with fierce intensity.",
-          "Ember Wastes": "A smoldering volcanic field with streams of lava and fire geysers.",
-          "Inferno Surge.": "Unleashes a wave of fire that engulfs enemies in a radius, dealing damage over time and igniting them.",
-          "Burning Aura": "Enemies within a certain radius take damage over time due to the intense heat radiating from the sorceress."
-        },
-        {
-          "Class": "Hack Saboteur",
-          "Rogue Mechanic": "A sharp-eyed rogue, she infiltrates enemy technology. Her hacking skills disrupt enemy systems, allowing her to disable defenses and create opportunities for her allies.",
-          "Alarm Sector": "A high-security area with red lights flashing and guarded by digital defenses.",
-          "System Override": "Hacks into enemy tech, disabling their abilities for a short time and turning their own gadgets against them.",
-          "System Disruption": "Has a chance to disable enemy technology temporarily, preventing them from using abilities."
-        },
-        {
-          "Class": "Hex Caster",
-          "Arcane Enchantress": "A master of curses and hexes, she weaves powerful spells to debilitate her enemies. Her dark magic disrupts foes while empowering her allies, creating havoc on the battlefield.",
-          "Mystic Veil": " A forest obscured by arcane fog, filled with glowing runes and whispers of magic.",
-          "Curse of Weakness": " Inflicts a curse on enemies that reduces their damage and increases the damage they receive for a short duration.",
-          "Cursed Affliction": "Enemies afflicted with a curse take increased damage from all sources, enhancing team synergy."
-        },
-        {
-          "Class": "Holy CrusaderBattle Priestess",
-          "Battle Priestess": "A valiant defender, she stands against darkness with unwavering resolve. Her radiant sword and armor protect her allies, charging forward to vanquish evil.",
-          "Valor Plains": "A peaceful grassy expanse, touched by sacred light, ready for a righteous charge.",
-          "Righteous Charge": "Charges forward, dealing damage to enemies in her path and stunning them, while boosting her allies’ morale.",
-          "Valor Resolve": "Gains a damage reduction buff for her allies at low health, encouraging protective gameplay."
-        },
-        {
-          "Class": "Light Avenger",
-          "Holy Priestess": "A fierce warrior of light, she charges into battle wielding holy magic. Her righteous fury empowers her attacks, smiting foes with radiant energy.",
-          "Valor Cross": " A radiant battlefield where holy light shines down on the worthy.",
-          "Holy Vengeance": "Marks a target for a brief time; attacking this target deals bonus damage and reduces their damage output.",
-          "Divine Retribution": "When taking damage, has a chance to deal damage back to the attacker, reflecting a portion of the damage."
-        },
-        {
-          "Class": "Lunar Priestess",
-          "Celestial Maiden": "A serene figure, she draws power from the moon to heal and support her team. Her calming aura provides strength in the darkest moments of battle.",
-          "Moonlit Shore": "A serene lakeside under a glowing full moon, surrounded by soft reflections.",
-          "Moonlit Blessing": "Grants allies temporary invisibility and enhanced stealth, allowing for surprise attacks.",
-          "Moonlight Embrace": "Allies receive a boost to healing when near the celestial maiden, enhancing support capabilities."
-        },
-        {
-          "Class": "Mechanic Trickster",
-          "Cyber Ninja": "An inventive rogue, she uses gadgets and drones to create chaos on the battlefield. Her clever traps and mechanical prowess allow her to manipulate her environment to her advantage.",
-          "Hackers Alley": "A bustling, tech-laden street filled with gadgets and neon signs.",
-          "Drone Swarm": "Deploys a group of combat drones that attack nearby enemies, providing distractions and additional damage.",
-          "Tech Savvy": "Gains bonus resources or materials when defeating enemies with gadgets or traps, enhancing crafting abilities."
-        },
-        {
-          "Class": "Neon Sniper",
-          "Cyber Ninja:": "A calm and focused sharpshooter, she picks off foes from a distance with her high-tech sniper rifle. Her precision and tactical awareness make her invaluable in strategic engagements.",
-          "Skyview Ledge": " A towering perch above the futuristic city, offering a strategic view of the lights below.",
-          "Precision Shot": "Charges a high-damage shot that ignores enemy armor, critical hits and the target is stunned.",
-          "Precision Focus": "Critical hit chance increases with consecutive hits on the same target, rewarding consistent targeting."
-        },
-        {
-          "Class": "Nightblade",
-          "Shadow Dancer": "A lethal assassin, she moves like a shadow, striking with precision. Her stealth and agility make her a master of surprise attacks, leaving her enemies in the dark.",
-          "Duskwatch Ledge": "A silent rooftop under moonlight, perfect for lurking in the dark.",
-          "Silent Strike": "Executes a powerful attack from stealth that deals critical damage and briefly stuns the target.",
-          "Darkstep": "Gains a short burst of increased speed and damage resistance after successfully evading an attack."
-        },
-        {
-          "Class": "Phantom FistShadow Dancer",
-          "Shadow Dancer": "A fierce brawler, she harnesses dark energy to enhance her combat prowess. Her unyielding resolve fuels her powerful strikes, making her a relentless force on the battlefield.",
-          "Silent Alley": " A dim, abandoned alley where the darkness hides swift punches.",
-          "Shadow Pounce": "Dashes forward and delivers a powerful strike that knocks back enemies and grants temporary speed boost.",
-          "Shadow's Embrace": "Deals bonus damage when attacking from stealth, rewarding tactical positioning."
-        },
-        {
-          "Class": "Poison Veil",
-          "Mystic Herbalist": "Shrouded in mystery, she wields toxic substances to weaken her foes. Her cunning and stealth make her a dangerous opponent who uses nature's venom to her advantage.",
-          "Swamp of Whispers": " A dark, misty swamp where twisted trees and vines emit toxic vapors.",
-          "Toxic Cloud": "Releases a poisonous fog that negates healing effects and damages enemies caught within it.",
-          "Toxic Resistance": "Gains increased resistance to damage and debuffs, allowing her to withstand any enemy."
-        },
-        {
-          "Class": "Root Shaman",
-          "Mystic Herbalist": "A wise guardian of nature, she draws upon the ancient energy of the earth. Her connection allows her to heal and defend, using the power of roots and natural forces in battle.",
-          "Ancient Grove": "A dense forest with towering, ancient trees pulsating with earthbound energy.",
-          "Spirit Bond": "Channels ancient spirits to empower allies, granting them temporary buffs to attack and defense power.",
-          "Spirit Connection": "Increases the effectiveness of spirit-based abilities, granting bonus effects or reduced cooldowns."
-        },
-        {
-          "Class": "Rune Weaver",
-          "Arcane Enchantress": "A wise enchantress, she uses ancient runes to empower her magic. Her intricate spells enhance her abilities, creating a formidable force on the battlefield.",
-          "Runic Ward": "Inscribes a protective rune on the ground that absorbs damage and reflects it back to attackers.",
-          "Rune Preservation": "Has a chance to reset the cooldown of abilities when using rune-based attacks, promoting continuous use."
-        },
-        {
-          "Class": "Sacred Protector",
-          "Holy Priestess": "A stalwart guardian, she defends her allies with unwavering resolve. Her shield radiates holy energy, providing protection against the forces of darkness.",
-          "Peaceful Meadow": " A serene, open field under soft sunlight, offering a quiet resolve.",
-          "Guardian Blessing": "Creates a shield that absorbs damage for an ally and reflects a portion back to attackers.",
-          "Guardian Resolve": "Increases the effectiveness of all shields and defensive abilities cast on allies, bolstering their protection."
-        },        {
-          "Class": "Seraphim Sage",
-          "Holy Priestess": "An ethereal guide, she channels celestial wisdom to support her team. Her divine spells heal, empower, and illuminate the battlefield with purity and grace.",
-          "Divine Hall": "A grand cathedral illuminated by celestial light, casting peace all around.",
-          "Celestial Ward": "Summons protective spirits that shield allies from damage for a short duration while granting bonus healing.",
-          "Angelic Guidance": "Periodically provides a small boost to ally damage for a brief duration, encouraging aggressive play."
-        },
-        {
-          "Class": "Serpent Caller",
-          "Beast Whisperer:": "A mysterious summoner, she wields the power of serpents. Her abilities allow her to control poisonous allies and ensnare her foes in coils of ancient magic.",
-          "Serpent Hollow": "A shadowed cave where serpents lie in waiting, wrapped in mystery.",
-          "Venomous Embrace": "Temporarily gains the ability to channel poison through attacks, dealing additional damage over time.",
-          "Venomous Affinity": " Attacks have a chance to apply a poison effect that deals damage over time, enhancing damage output."
-        },
-        {
-          "Class": "Solar Warrior",
-          "Celestial Maiden": "A radiant champion, she wields the blazing light of the sun. Her fiery attacks scorch her enemies, embodying the warmth and protection of the sun's rays.",
-          "Radiant Peaks": " High mountains illuminated by a brilliant sunrise, radiating divine warmth.",
-          "Blazing Radiance": "Unleashes a wave of solar energy that deals damage to enemies and heals allies within its radius.",
-          "Radiant Fury": "Deals bonus damage against enemies with negative status effects, promoting aggressive play."
-        },
-        {
-          "Class": "Spectral Mage",
-          "Arcane Enchantress": "A ghostly spellcaster, she summons apparitions to fight alongside her. Her ethereal magic enhances her offensive capabilities, making her a haunting presence in combat.",
-          "Ethereal Crossing": "A misty field where ghostly figures drift, surrounded by spectral energy.",
-          "Phantom Summon": "Summons a spectral ally to fight alongside, providing additional attacks and drawing enemy fire.",
-          "Phantom Echo": "Summons a spectral ally that mimics a portion of the mage damage, providing additional firepower."
-        },
-        {
-          "Class": "Spectral Wraith",
-          "Shadow Dancer": "A ghostly figure, she blends ethereal magic with agility. Her spectral abilities allow her to phase through obstacles, making her a formidable and elusive opponent.",
-          "Phantom Glade": "A foggy woodland where shadows blur with reality, hauntingly silent.",
-          "Ethereal Shift": "Becomes incorporeal for a short time, allowing the character to avoid damage and pass through enemies dealing damage.",
-          "Ghostly Presence": "Enemies that attack the shadow dancer have a chance to miss, as her movements are unpredictable."
-        },
-        {
-          "Class": "Star Gazer",
-          "Celestial Maiden": "A mystical maiden, she channels cosmic energies to protect and empower her allies. Her connection to the stars grants her unique abilities that shine brightly on the battlefield.",
-          "Astral Fields": "An open expanse under a sky full of stars, where cosmic energy flows freely.",
-          "Cosmic Reflection": "Reflects incoming attacks back at enemies, dealing damage based on the number of attacks reflected.",
-          "Awareness": "Gains increased evasion and movement speed during nighttime or in dark areas, promoting stealth gameplay."
-        },
-        {
-          "Class": "Lunar Priestess",
-          "Celestial Maiden": "A serene figure, she draws power from the moon to heal and support her team. Her calming aura provides strength in the darkest moments of battle.",
-          "Moonlit Shore": "A serene lakeside under a glowing full moon, surrounded by soft reflections.",
-          "Moonlit Blessing": "Grants allies temporary invisibility and enhanced stealth, allowing for surprise attacks.",
-          "Moonlight Embrace": "Allies receive a boost to healing when near the celestial maiden, enhancing support capabilities."
-        },
-        {
-          "Class": "Storm Weaver",
-          "Elemental Sorceress": "With the ability to conjure lightning and fierce winds, she channels the fury of the storm, striking enemies with electrifying spells and controlling the battlefield with powerful gusts.",
-          "Thunder Ridge": "Stormy atmosphere under constant lightning strikes and swirling storm clouds.",
-          "Thunderous Gale": "Summons a storm that unleashes lightning strikes at targeted enemies, with a chance to stun them temporarily.",
-          "Electric Surge": "Attacks have a chance to create an electric field, slowing enemies and dealing additional lightning damage over time."
-        },
-        {
-          "Class": "Tiger Spirit",
-          "Beast Whisperer": "A fierce guardian, she channels the spirit of the tiger in battle. Her speed and ferocity allow her to strike swiftly, creating chaos among her enemies.",
-          "Jungle Heart": "A dense, lively jungle with sounds of distant roars and rustling leaves.",
-          "Primal Roar": "Unleashes a fierce roar that intimidates enemies, reducing their damage output and lowering their defenses.",
-          "Feral Resilience": "Increases resistance to damage based on the number of nearby enemies, encouraging aggressive engagement."
-        },
-        {
-          "Class": "Trap Master",
-          "Rogue Mechanic": "A cunning inventor, she sets ingenious traps to ensnare her enemies. Her clever designs can turn the tide of battle, catching foes off guard and leaving them vulnerable.",
-          "Iron Maze": " An intricate labyrinth within an abandoned factory, laced with hidden traps.",
-          "Misdirection": "Creates a false trail that confuses enemies, causing them to chase after a decoy while she strikes from the shadows.",
-          "Cunning Engineer": "Receives bonus materials when setting traps, allowing for greater crafting efficiency."
-        },
-        {
-          "Class": "Umbra Scout",
-          "Shadow Dancer": "An elusive observer, she gathers intelligence while remaining hidden in the shadows. Her stealth and agility allow her to outmaneuver enemies and provide critical information to her allies.",
-          "Twilight Backstreets": "Narrow, hidden paths veiled in shadows and faint city lights.",
-          "Cloak of Shadows": "Activates a stealth mode that hides the character from enemy detection and increases movement speed. Next attack is double damage.",
-          "Veil of Shadows": "Gains increased evasion while in stealth, making it harder for enemies to land attacks."
-        },
-        {
-          "Class": "Wolf Summoner",
-          "Beast Whisperer": "A primal warrior, she communicates with wolves. Her bond with nature allows her to summon wolves and unleash ferocious attacks on her enemies.",
-          "Howling Forest": "A deep forest where wolves roam, with echoes of distant howls under the moon.",
-          "Feral Pack": "Summons a pack of spectral wolves that attack enemies, providing crowd control and distraction.",
-          "Pack Mentality": "Gains a bonus to attack and defense when near allies, enhancing group dynamics."
+          "name": "kimono"
         }
-      ],
-      "metadataSchemaMapper": {
-        "name": "Class",
-        "edition": "edition",
-        "attributes": "attributes",
-        "base64SvgDataUri": "base64SvgDataUri",
-        "image.href": "image.href",
-        "image.hash": "image.hash",
-        "image.ipfsUri": "image.ipfsUri",
-        "image.ipfsCid": "image.ipfsCid",
-        "image.fileName": "image.fileName"
-      }
+      ]
+    },
+    {
+      "growEditionSizeTo": 110,
+      "layersOrder": [
+        {
+          "name": "pinkyFace"
+        },
+        {
+          "name": "head"
+        },
+        {
+          "name": "eyes"
+        }
+      ]
     }
- 
-  ]
+  ],
+  "shuffleLayerConfigurations": false,
+  "format": {
+    "width": 20,
+    "height": 20
+  },
+  "metadataSchemaMapper": {
+    "name": "name",
+    "description": "description",
+    "edition": "edition",
+    "attributes": "attributes",
+    "base64SvgDataUri": "base64SvgDataUri",
+    "image.href": "image.href",
+    "image.hash": "image.hash",
+    "image.ipfsUri": "image.ipfsUri",
+    "image.ipfsCid": "image.ipfsCid",
+    "image.fileName": "image.fileName"
+  },
+  "rarityDelimiter": "#",
+  "uniqueDnaTorrance": 10000,
+  "layersDirName": "layers",
+  "outputDirName": "output",
+  "outputJsonDirName": "json",
+  "outputImagesDirName": "images",
+  "outputJsonFileName": "metadata.json",
+  "outputImagesCarFileName": "images.car",
+  "outputMetadataCarFileName": "metadata.car",
+  "outputMetadataFileExtension": ".json",
+  "editionNameFormat": "#",
+  "tags": "tag1,tag2,tag3",
+  "preview": {
+    "thumbPerRow": 20,
+    "thumbWidth": 60,
+    "imageRatio": 1,
+    "imageName": "preview.png"
+  },
+  "nftStorageApiToken": "Your nft.storage API token",
+  "overwriteImageCID": "Your image CID after upload to your IPFS storage."
 }
